@@ -7,4 +7,4 @@
 <3>works with any text</3>
 <Expected behaviour>Should rotate the characters of the magic output</Expected behaviour>
 <Version> 9.37.0 </Version>
-<User-Agent>Mozilla 5.0 Windows NT 10.0; Win64; x64; rv:98.0 Firefox 98.0</User-Agent>
+<User-Agent>Mozilla 5.0 Windows NT 10.0; Win64; x64; rv 98 0 Firefox 98 0 </User-Agent>
