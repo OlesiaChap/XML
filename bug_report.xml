@@ -1,1 +1,10 @@
-
+<?xml version="1.0" encoding="ios">
+<root>
+<Describe the bug>The answer field shows a json format instead of a table with answers/entropies</Describe the 
+<Steps to reproduce>
+<1>add magic</1>
+<2>add rot13</2>
+<3>works with any text</3>
+<Expected behaviour>Should rotate the characters of the magic output</Expected behaviour>
+<Version> 9.37.0 </Version>
+<User-Agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:98.0) Gecko/20100101 Firefox/98.0</User-Agent>
